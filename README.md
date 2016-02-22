@@ -1,6 +1,4 @@
 # Queue Server
-**Derek Brown**  
-**February 2016**
 
 ## Overview
 This project implements a remote queue, accessible via TCP connection, with concurrent clients supported.
